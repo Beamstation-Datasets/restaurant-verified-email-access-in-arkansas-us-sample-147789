@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f3f64b05-25ea-49f5-a9ef-f9a11def8538",
+  "export_job_id": "73656a77-123d-4b9a-aded-b470b79324da",
   "id_short": 147789,
-  "published_at": "2026-04-11T19:02:14Z",
+  "published_at": "2026-04-18T07:27:54Z",
   "repo_name": "restaurant-verified-email-access-in-arkansas-us-sample-147789",
   "sample_asset_name": "beamstation_147789_restaurants-us-ar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/147789/beamstation_147789_restaurants-us-ar_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "e05612ca18737fa23caaa67b31c53b10f2b8ac9c98140bc8c09f81610d45e3e5",
-  "sample_size_bytes": 55883,
-  "total_records": 558
+  "sample_records": 88,
+  "sample_sha256": "2664d4e3567d0c3ebd4df7f994ba23691d57b4f1571734b934871dc34d980552",
+  "sample_size_bytes": 354918,
+  "total_records": 882
 }
