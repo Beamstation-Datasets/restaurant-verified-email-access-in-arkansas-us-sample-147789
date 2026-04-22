@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Arkansas, US
 
-> Free BeamStation sample export with 88 rows and masked direct-contact fields.
+> Free BeamStation sample export with 59 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `147789` |
 | Location | Arkansas |
 | Category | Restaurants |
-| Full dataset size | 882 records |
-| Free sample size | 88 records (9.98%) |
-| Last export | 2026-04-15T04:00:46.789804+00:00 |
+| Full dataset size | 591 records |
+| Free sample size | 59 records (9.98%) |
+| Last export | 2026-04-22T09:32:10.685161+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-arkansas-us-sample-147789/releases/download/sample-latest/beamstation_147789_restaurants-us-ar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
